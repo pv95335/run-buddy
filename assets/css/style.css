@@ -190,9 +190,10 @@ margin: 10px 0;
     
 }
 
+
 .trainer {
     width: 900px;
-    margin: 0 auto 30x auto;
+    margin: 0 auto 30px auto;
     background: #024e76;
     color: #fce138;
     overflow: auto;
